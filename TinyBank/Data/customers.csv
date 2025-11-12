@@ -1,0 +1,3 @@
+﻿Id,Name,IdentityNumber,PhoneNumber,Email,CustomerType
+1,Nino Giorgadze,12345678901,+995599123456,nino.giorgadze@example.com,Physical
+2,Nino Giorgadze,12345678901,+995599123456,nino.giorgadze@example.com,Physical

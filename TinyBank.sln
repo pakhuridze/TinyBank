@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyBank", "TinyBank\TinyBank.csproj", "{04FE6B2C-4EFD-4E47-897F-916782D190A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyBank.Tests", "TinyBank.Tests\TinyBank.Tests.csproj", "{175AC918-AC74-4617-9552-CC546885F81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FE6B2C-4EFD-4E47-897F-916782D190A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FE6B2C-4EFD-4E47-897F-916782D190A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FE6B2C-4EFD-4E47-897F-916782D190A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FE6B2C-4EFD-4E47-897F-916782D190A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175AC918-AC74-4617-9552-CC546885F81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175AC918-AC74-4617-9552-CC546885F81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175AC918-AC74-4617-9552-CC546885F81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175AC918-AC74-4617-9552-CC546885F81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
